@@ -25,9 +25,9 @@ jobs:
           name: Front-End Build
           command: |
             npm run frontend:build
-      artifacts:
-    paths:
-      - build/
+          artifacts:
+            paths:
+             - build/
       - run:
           name: Back-End Build
           command: |
