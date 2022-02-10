@@ -10,4 +10,9 @@ After the developer pushes the repository on Github the circleci code do :
 5. Front-End build.
 6. Back-End build
 7. deploy Front-End.
-8. deploy Back-End. 
+8. deploy Back-End.
+
+
+ 
+
+ 
