@@ -8,7 +8,3 @@ To deploy the application API to use this service to run the server in the cloud
 
 * S3 Bucket
 To deploy and host the application Frontend on AWS S3 Bucket.
-
-
-
- 
