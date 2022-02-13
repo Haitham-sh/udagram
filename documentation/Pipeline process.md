@@ -1,5 +1,5 @@
 #Pipeline process
-After the developer pushes the repository on Github the circleci code do :
+After the developer pushes the repository on Github the circleci code do:
 1. The pipeline uses orbs to install:
    * Node js,
    * the AWS cli
