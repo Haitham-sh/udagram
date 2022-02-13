@@ -7,14 +7,6 @@ jobs:
   build:
     docker:
       - image: "cimg/base:stable"
-  workflows:
-    build:
-      jobs:
-        - test:
-            filters:
-              branches:
-                only:
-                  - main
     steps:
       - node/install:
           install-yarn: true
