@@ -1,5 +1,5 @@
 # Udagram
-[![CircleCI](https://circleci.com/gh/Haitham-sh/udagram/tree/teesloane-patch-5.svg?style=svg)](https://app.circleci.com/pipelines/github/Haitham-sh/?branch=main)
+[![CircleCI](https://circleci.com/gh/Haitham-sh/udagram/tree/main.svg?style=svg)](https://app.circleci.com/pipelines/github/Haitham-sh/?branch=main)
 
 this is a full-stack application for posting images. the backend is a Node.js project and the frontend is an Angular application. The project's purpose is to learn how to deploy a full-stack app to AWS cloud services.
 
