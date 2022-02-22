@@ -58,13 +58,11 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Diagrams
 
-* pipeline diagram.
-
-![pipeline diagram](/documentation/diagrams/pipeline diagram.png)
+* pipeline diagram. 
+![pipeline diagram](/documentation/diagrams/pipeline-diagram.png)
 
 * udagram infrastructure.
-
-![udagram infrastructure](/documentation/diagrams/udagram infrastructure.png)
+![udagram infrastructure](/documentation/diagrams/udagram-infrastructure.png)
 
 
 ## License
