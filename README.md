@@ -56,6 +56,17 @@ The e2e tests are using Protractor and Jasmine.
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
 
+## Diagrams
+
+* pipeline diagram.
+
+![pipeline diagram](/documentation/diagrams/pipeline diagram.png)
+
+* udagram infrastructure.
+
+![udagram infrastructure](/documentation/diagrams/udagram infrastructure.png)
+
+
 ## License
 
 [License](LICENSE.txt)
